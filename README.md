@@ -1,2 +1,6 @@
 # starsLocation
-Location de véhicules en NUI (FiveM)
+[ESX] Location de véhicules en NUI (FiveM)
+
+Configuration du script: 
+- config.lua
+- ui/index.js
